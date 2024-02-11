@@ -1,4 +1,5 @@
-## React Redux Connectors and Providers
+# React Redux Connectors and Providers
+
 ### Learning Objectives
 
 - Redux connectors and how to use them
@@ -9,7 +10,7 @@
 - How you can improve a connector’s performance using Reselect
 - How to use Redux’s dev tools to debug the state of your application
 
-Task list
+### Task list
 
 1. Create a small store
 2. Test MapStateToProps
